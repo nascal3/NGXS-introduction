@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.<br>
 To install ngxs state management into the app run `npm i @ngxs/store --save`.<br>
-To install optional debug tools to use with ngxs run `npm i @ngxs/logger-plugin @ngxs/devtools-plugin --save-dev` 
+To install optional debug tools to use with ngxs run `npm i @ngxs/logger-plugin @ngxs/devtools-plugin --save-dev`. 
 
 ## Development server
 
